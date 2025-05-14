@@ -50,4 +50,3 @@ A Flutter application designed to save WhatsApp and WhatsApp Business statuses d
 
 For any inquiries or collaborations, feel free to reach out to me:
 - Email: arslanch585@gmail.com
-- Email: arslanch585@gmail.com
