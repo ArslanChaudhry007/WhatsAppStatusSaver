@@ -16,7 +16,6 @@ void main() async {
   );
 }
 
-//Main Screen
 
 class MyApp extends ConsumerWidget {
   const MyApp({super.key});
